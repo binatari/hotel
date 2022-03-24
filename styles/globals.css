@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stan1{
+  background-image: url(../public/assets/stan1.jpeg);
+}
+
+.stan1b{
+  background-image: url(../public/assets/stan1b.jpeg);
+}
+
+.stan1c{
+  background-image: url(../public/assets/stan1c.jpeg);
+}
+
+.con1{
+  background-image: url(../public/assets/con1.jpeg);
+}
+
+.con1b{
+  background-image: url(../public/assets/con1b.jpeg);
+}
+
+.con1c{
+  background-image: url(../public/assets/con1c.jpeg);
+}
+
+.con1d{
+  background-image: url(../public/assets/con1d.jpeg);
+}
+
+.stan2{
+  background-image: url(../public/assets/stan2.jpeg);
+}
+
+.stan2b{
+  background-image: url(../public/assets/stan2b.jpeg);
+}
+
+.demure{
+  background-image: url(../public/assets/demure.jpeg);
+}
+
+.demure1{
+  background-image: url(../public/assets/demure1.jpeg);
+}
+
+.home{
+  background-image: url(../public/assets/home.jpeg);
+}
+
+
+.home1{
+  background-image: url(../public/assets/home1.jpeg);
+}
+
+.home2{
+  background-image: url(../public/assets/home2.jpeg);
+}
+
+.luxury{
+  background-image: url(../public/assets/luxury.jpeg);
+}
+
+.luxury1{
+  background-image: url(../public/assets/luxury1.jpeg);
+}
