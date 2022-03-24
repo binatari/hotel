@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <nav className='justify-between flex items-center py-4 px-12 container mx-auto' >
       <Link href={'/'}>
-        <img src={require('../public/assets/Alphamsa Logo.png').default.src} alt="" className='max-h-[4rem]' />
+        <img src={require('../public/assets/Alphamsa Logo.png').default.src} alt="" className='max-h-[4rem] h-[4rem]' />
         </Link>
         <ul className=' hidden md:flex '>
             <Link href='/apartments'>
